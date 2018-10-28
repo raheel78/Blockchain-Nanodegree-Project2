@@ -1,4 +1,6 @@
-# Blockchain Data
+# Blockchain-Nanodegree-Project2
+
+## Blockchain Data
 
 Blockchain has the potential to change the way that the world approaches data. Develop Blockchain skills by understanding the data model behind Blockchain by developing your own simplified private blockchain.
 
@@ -59,4 +61,4 @@ for (var i = 0; i < inducedErrorBlocks.length; i++) {
 ```
 blockchain.validateChain();
 ```
-# Blockchain-Nanodegree-Project2
+
